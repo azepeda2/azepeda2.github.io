@@ -1,0 +1,2 @@
+# azepeda2.github.io
+Alejandro Zepeda is a software developer with a commitment to writing efficient and effective code. After graduating from the University of San Francisco, with a B.S. in Computer Science, Alejandro continued to create quality code ranging from android applications, to video games in Unreal Engine 4 and Unity 3D. He is passionate developer with an ability to learn quick and adapt to the problem at hand.
