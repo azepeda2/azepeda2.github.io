@@ -608,3 +608,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .modal.and.carousel {
 	position: fixed; 
   }
+.modal a {
+	color: rgb(64,224,208);
+}
