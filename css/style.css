@@ -169,7 +169,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro-bg.jpg) no-repeat center center fixed;
+	background: url(../img/VRTechPic.jpg) no-repeat center center fixed;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -422,7 +422,7 @@ ol.type li a:hover {
 }
 /* Team Section */
 #team {
-	background: url(../img/team-bg.jpg);
+	background: url(../img/Keyboardtyping.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ddd;
